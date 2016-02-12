@@ -7,7 +7,7 @@ package ejed;
 
 /**
  *
- * @author mcruz
+ * @author sanza
  */
 public class EjED {
 
